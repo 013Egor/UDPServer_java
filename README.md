@@ -32,7 +32,7 @@ Socket closed
 ```
 # User2
 ```bash
-java UDPClient 127.0.0.1 8989 9898
+~/$ java UDPClient 127.0.0.1 8989 9898
 Input: 
 Hello
 Input: 
